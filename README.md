@@ -66,7 +66,7 @@ Or simply [download StreamX.html](./StreamX.html) and open it directly.
 | **CSS3** | Custom properties, Flexbox, Grid, animations |
 | **Vanilla JS** | Dynamic card rendering, search, modals |
 | **Google Fonts** | Bebas Neue + DM Sans |
-| **Canvas-generated images** | AI-style gradient show thumbnails |
+| **Canvas-generated images** | style gradient show thumbnails |
 
 ---
 
